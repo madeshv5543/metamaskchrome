@@ -23,6 +23,9 @@
   "addTokens": {
     "message": "添加代币"
   },
+  "addAcquiredTokens": {
+    "message": "在Metamask上添加已用的代币"
+  },
   "amount": {
     "message": "数量"
   },
@@ -116,6 +119,9 @@
   "confirmTransaction": {
     "message": "确认交易"
   },
+  "connectHardwareWallet": {
+    "message": "链接硬件钱包"
+  },
   "continue": {
     "message": "继续"
   },
@@ -206,7 +212,7 @@
     "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "存入ADHI"
+    "message": "存入 Eth"
   },
   "depositEther": {
     "message": "存入 Ether"
@@ -509,7 +515,7 @@
     "description": "Password and file needed to import an account"
   },
   "negativeETH": {
-    "message": "Can not send negative amounts ofADHI."
+    "message": "Can not send negative amounts of ETH."
   },
   "networks": {
     "message": "网络"
@@ -714,6 +720,9 @@
   "search": {
     "message": "搜索"
   },
+  "searchResults": {
+    "message": "搜索结果"
+  },
   "secretPhrase": {
     "message": "输入12位助记词以恢复金库."
   },
@@ -739,13 +748,13 @@
     "message": "发送"
   },
   "sendETH": {
-    "message": "发送ADHI"
+    "message": "发送 ETH"
   },
   "sendTokens": {
     "message": "发送 代币"
   },
   "onlySendToEtherAddress": {
-    "message": "只发送ADHI 给一个以太坊地址"
+    "message": "只发送 ETH 给一个以太坊地址"
   },
   "searchTokens": {
     "message": "搜索代币"
@@ -826,7 +835,7 @@
     "message": "至"
   },
   "toETHviaShapeShift": {
-    "message": "$1ADHI 通过 ShapeShift",
+    "message": "$1 ETH 通过 ShapeShift",
     "description": "system will fill in deposit type in start of message"
   },
   "tokenAddress": {

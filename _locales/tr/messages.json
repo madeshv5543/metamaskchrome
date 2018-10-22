@@ -497,7 +497,7 @@
       "description": "Hesap almak için parola ve dosya gerekiyor."
     },
     "negativeETH": {
-      "message": "NegatifADHI miktarları gönderilemez."
+      "message": "Negatif ETH miktarları gönderilemez."
     },
     "networks": {
       "message": "Ağlar"
@@ -718,7 +718,7 @@
       "message": "Jeton Gönder"
     },
     "onlySendToEtherAddress": {
-      "message": "Ethereum adresine sadeceADHI gönder."
+      "message": "Ethereum adresine sadece ETH gönder."
     },
     "searchTokens": {
       "message": "Jeton ara"
@@ -799,7 +799,7 @@
       "message": "Kime"
     },
     "toETHviaShapeShift": {
-      "message": "ShapeShift üstünden $1'danADHI'e",
+      "message": "ShapeShift üstünden $1'dan ETH'e",
       "description": "system will fill in deposit type in start of message"
     },
     "tokenAddress": {

@@ -152,7 +152,7 @@
     "description": "Sinasabihan ang user kung ano ang coin na kanilang pinili para I-deposito gamit ang shapeshift"
   },
   "depositEth": {
-    "message": "I-deposito angADHI"
+    "message": "I-deposito ang Eth"
   },
   "depositEther": {
     "message": "I-deposito ang Ether"
@@ -342,7 +342,7 @@
     "message": "Loose"
   },
   "mainnet": {
-    "message": "Main Ethereum Network"
+    "message": "Main Adhichain Network"
   },
   "message": {
     "message": "Mensahe"
@@ -541,7 +541,7 @@
     "message": "To"
   },
   "toETHviaShapeShift": {
-    "message": "$1 saADHI sa pamamagitan ng ShapeShift",
+    "message": "$1 sa ETH sa pamamagitan ng ShapeShift",
     "description": "Pupunan ng system ang deposit type sa simula ng mensahe"
   },
   "tokenBalance": {

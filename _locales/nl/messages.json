@@ -191,7 +191,7 @@
     "description": "Laat de gebruiker weten welk muntje ze hebben geselecteerd om te deponeren met shapeshift"
   },
   "depositEth": {
-    "message": "AanbetalingADHI"
+    "message": "Aanbetaling Eth"
   },
   "depositEther": {
     "message": "Stort Ether"
@@ -464,7 +464,7 @@
     "description": "Wachtwoord en bestand nodig om een ​​account te importeren"
   },
   "negativeETH": {
-    "message": "Kan geen negatieve hoeveelhedenADHI verzenden."
+    "message": "Kan geen negatieve hoeveelheden ETH verzenden."
   },
   "networks": {
     "message": "netwerken"
@@ -643,7 +643,7 @@
     "message": "Sturen"
   },
   "sendETH": {
-    "message": "VerzendADHI"
+    "message": "Verzend ETH"
   },
   "sendTokens": {
     "message": "Stuur tokens"
@@ -712,7 +712,7 @@
     "message": "Naar"
   },
   "toETHviaShapeShift": {
-    "message": "$1 totADHI via ShapeShift",
+    "message": "$1 tot ETH via ShapeShift",
     "description": "systeem zal het aanbetalingstype invullen bij het begin van het bericht"
   },
   "tokenAddress": {

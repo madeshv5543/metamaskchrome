@@ -643,7 +643,7 @@
     "message": "भेजें"
   },
   "sendETH": {
-    "message": "भेजेंADHI"
+    "message": "भेजें ETH"
   },
   "sendTokens": {
     "message": "भेजें टोकन"
@@ -712,7 +712,7 @@
     "message": "के लिए"
   },
   "toETHviaShapeShift": {
-    "message": "शैपशैफ्ट द्वारा $1 सेADHI में जमा",
+    "message": "शैपशैफ्ट द्वारा $1 से ETH में जमा",
     "description": "संदेश की शुरुआत में जमा प्रकार भर जाएगा"
   },
   "tokenAddress": {

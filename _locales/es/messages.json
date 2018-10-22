@@ -500,7 +500,7 @@
     "description": "Contraseña y archivo necesarios para importar una cuenta"
   },
   "negativeETH": {
-    "message": "No se pueden mandar cantidades negativas deADHI"
+    "message": "No se pueden mandar cantidades negativas de ETH"
   },
   "networks": {
     "message": "Redes"
@@ -775,7 +775,7 @@
     "message": "Para"
   },
   "toETHviaShapeShift": {
-    "message": "$1 aADHI via ShapeShift",
+    "message": "$1 a ETH via ShapeShift",
     "description": "el sistema llenará el tipo de depósito al principio del mensaje"
   },
   "tokenAddress": {

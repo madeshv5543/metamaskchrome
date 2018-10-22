@@ -799,7 +799,7 @@
     "message": "பெறுநர்"
   },
   "toETHviaShapeShift": {
-    "message": "$ 1 முதல்ADHI வரை வடிவம்",
+    "message": "$ 1 முதல் ETH வரை வடிவம்",
     "description": "செய்தி தொடக்கத்தில் வைப்பு வகைகளில் நிரப்பப்படும்"
   },
   "tokenAddress": {

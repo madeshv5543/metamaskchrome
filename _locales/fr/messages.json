@@ -152,7 +152,7 @@
     "description": "Indique à l'utilisateur quelle monnaie il a choisi de déposer avec shapeshift"
   },
   "depositEth": {
-    "message": "DépôtADHI"
+    "message": "Dépôt Eth"
   },
   "depositEther": {
     "message": "Dépôt Ether"
@@ -541,7 +541,7 @@
     "message": "Destinataire"
   },
   "toETHviaShapeShift": {
-    "message": "$1 àADHI via ShapeShift",
+    "message": "$1 à ETH via ShapeShift",
     "description": "le système remplira le type de dépôt au début du message"
   },
   "tokenBalance": {

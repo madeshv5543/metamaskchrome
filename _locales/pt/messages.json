@@ -191,7 +191,7 @@
     "description": "Diz ao usuário que moeda selecionou para depositar com shapeshift"
   },
   "depositEth": {
-    "message": "DepositarADHI"
+    "message": "Depositar Eth"
   },
   "depositEther": {
     "message": "Depositar Ether"
@@ -464,7 +464,7 @@
     "description": "Palavra-passe e ficheiro necessários para importar uma conta"
   },
   "negativeETH": {
-    "message": "Não é possível enviar valores negativos deADHI."
+    "message": "Não é possível enviar valores negativos de ETH."
   },
   "networks": {
     "message": "Redes"
@@ -643,7 +643,7 @@
     "message": "Enviar"
   },
   "sendETH": {
-    "message": "EnviarADHI"
+    "message": "Enviar ETH"
   },
   "sendTokens": {
     "message": "Enviar Tokens"
@@ -712,7 +712,7 @@
     "message": "Para"
   },
   "toETHviaShapeShift": {
-    "message": "$1 paraADHI via ShapeShift",
+    "message": "$1 para ETH via ShapeShift",
     "description": "o sistema irá preencher o tipo de depósito no início da mensagem"
   },
   "tokenAddress": {

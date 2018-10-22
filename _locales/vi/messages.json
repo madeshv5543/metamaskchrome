@@ -136,7 +136,7 @@
     "message": "Tùy chỉnh"
   },
   "defaultNetwork": {
-    "message": "Mạng lưới mặc định dùng cho các giao dịch Ether là Main Net (tiềnADHI thật)."
+    "message": "Mạng lưới mặc định dùng cho các giao dịch Ether là Main Net (tiền ETH thật)."
   },
   "denExplainer": {
     "message": "Số DEN của bạn là mật khẩu đã được mã hóa và lưu trữ trong MetaMask"
@@ -152,7 +152,7 @@
     "message": "Ký gửi $1 đến địa chỉ sau:"
   },
   "depositEth": {
-    "message": "Ký gửiADHI"
+    "message": "Ký gửi Eth"
   },
   "depositEther": {
     "message": "Ký gửi Ether"
@@ -342,7 +342,7 @@
     "message": "Nới lỏng"
   },
   "mainnet": {
-    "message": "Mạng Ethereum MainNet (tiềnADHI thật)"
+    "message": "Mạng Ethereum MainNet (tiền ETH thật)"
   },
   "message": {
     "message": "Tin nhắn"
@@ -535,14 +535,14 @@
     "message": "Chờ quá lâu?"
   },
   "testFaucet": {
-    "message": "Vòi nhận tiềnADHI ảo để thử nghiệm"
+    "message": "Vòi nhận tiền ETH ảo để thử nghiệm"
   },
   "to": {
     "message": "Đến"
   },
   "toETHviaShapeShift": {
     "description": "hệ thống sẽ điền vào loại tiền gửi khi bắt đầu tin nhắn",
-    "message": "$1 thànhADHI qua ShapeShift"
+    "message": "$1 thành ETH qua ShapeShift"
   },
   "tokenBalance": {
     "message": "Số dư token của bạn là:"

@@ -488,7 +488,7 @@
     "description": "Passwort und Datei sind notwendig um einen Account zu importieren"
   },
   "negativeETH": {
-    "message": "NegativeADHI Beträge können nicht versendet werden."
+    "message": "Negative ETH Beträge können nicht versendet werden."
   },
   "networks": {
     "message": "Netzwerke"
@@ -778,7 +778,7 @@
     "message": "An"
   },
   "toETHviaShapeShift": {
-    "message": "$1 anADHI via ShapeShift",
+    "message": "$1 an ETH via ShapeShift",
     "description": "Das System wird den Einzahlungstyp im Beginn der Nachricht eintragen"
   },
   "tokenAddress": {
